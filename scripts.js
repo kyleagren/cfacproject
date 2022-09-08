@@ -1,0 +1,1 @@
+// I wanted to use some JS on the project but I didn't really run into any situations where I wanted to use it. If I was going to use more info from the form I would have tried to, I think. 
